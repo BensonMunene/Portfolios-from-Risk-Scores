@@ -4,7 +4,7 @@ import plotly.express as px
 import datetime
 
 # Define the data directory (use raw string to avoid escape issues)
-data_dir = r"D:\Benson\aUpWork\Hussein Wael Egypt\Robo Advisory Platform\Portfolios"
+data_dir = "Data"
 
 #############################################
 # 1. RISK CALCULATION FUNCTIONS & DATA
